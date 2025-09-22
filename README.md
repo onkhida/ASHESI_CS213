@@ -1,6 +1,6 @@
 # CS213 - Object Oriented Programming (w/ Java)
 **Ashesi University**  
-- **Professor:** Dr. Daniel Addo
+- **Professor:** Daniel Addo
 - **Student:** Daniel Eta
 
 ## Repository Overview
