@@ -8,6 +8,7 @@ This repository contains all laboratory assignments and homework for CS213 - Obj
 
 ### Labs
 - [`Lab-01-Cohort-A/`](Lab-01-Cohort-A/) - [Ashesi Premier League Activity - Football Player Management System]
+- [`Lab-02-Cohort-A/`](Lab-02-Cohort-A/) - [Ashesi Health Kiosk]
 
 #### Lab-01-Cohort-A: Football Player Management System
 This lab introduces fundamental Java programming concepts through a football player management application. Students work with variables, data types, input/output operations, conditional statements, and switch cases.
